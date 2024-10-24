@@ -1,2 +1,8 @@
 dfhfgfgri
 
+View the assignment instructions
+To view the instructions for an assignment, press on its title.
+The assignments for which you have not yet retrieved instructions are marked with a star.
+
+Submit your assignment
+To submit an assignment to your teacher, press on the title of the assignment to be submitted in the list below and follow the instructions on the
